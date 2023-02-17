@@ -1,0 +1,13 @@
+{
+  "glorious-eggroll": {
+    "name": "Glorious Eggroll",
+    "url": "https://github.com/GloriousEggroll/proton-ge-custom",
+    "releases": [
+      {
+        "name": "GE-Proton7-49",
+        "release": "https://github.com/GloriousEggroll/proton-ge-custom/releases/tag/GE-Proton7-49",
+        "file": "GE-Proton7-49.tar.gz"
+      }
+    ]
+  }
+}
