@@ -1,0 +1,13 @@
+{
+  "glorious-eggroll-wine": {
+    "name": "Glorious Eggroll",
+    "url": "https://github.com/GloriousEggroll/wine-ge-custom",
+    "releases": [
+      {
+        "name": "GE-Proton7-37",
+        "release": "https://github.com/GloriousEggroll/wine-ge-custom/releases/tag/GE-Proton7-37",
+        "file": "wine-lutris-GE-Proton7-37-x86_64.tar.xz"
+      }
+    ]
+  }
+}
