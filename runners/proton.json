@@ -1,6 +1,8 @@
 {
-  "glorious-eggroll": {
-    "name": "Glorious Eggroll",
+  "yaagl-format": 0,
+  "id":"glorious-eggroll-proton",
+  "metadata": {
+    "name": "Glorious Eggroll Proton",
     "url": "https://github.com/GloriousEggroll/proton-ge-custom",
     "releases": [
       {
