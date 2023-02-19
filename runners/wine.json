@@ -1,6 +1,8 @@
 {
-  "glorious-eggroll-wine": {
-    "name": "Glorious Eggroll",
+  "yaagl-format": 0,
+  "id": "glorious-eggroll-wine",
+  "metadata": {
+    "name": "Glorious Eggroll WINE",
     "url": "https://github.com/GloriousEggroll/wine-ge-custom",
     "releases": [
       {
